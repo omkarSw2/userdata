@@ -1,24 +1,37 @@
 {
     "users":[
 {
-            "id":1,
+            "userid":"3iyejk",
+            "username":"omkar21143",
             "name":"omkar walvalkar",
-            "password":"omkar"
+            "password":"omkar",
+            "address":"122 3rd cross MG road Belgaum Karnataka ",
+            "cart":[]
+            
 },
 {
-    "id":2,
+    "userid":"vn9ukz",
+    "username":"Abhimanyu",
     "name":"Abhimanyu ",
-    "password":"Abhimanyu"
+    "password":"Abhimanyu",
+    "address":"123/4 3rd cross MG road new Delhi",
+    "cart":[]
 },
 {
-    "id":3,
+    "userid":"pujys0",
+    "username":"pranay",
     "name":"Pranay ",
-    "password":"Pranay"
+    "password":"Pranay",
+    "address":"house no somre road Maharastra",
+    "cart":[]
 },
 {
-    "id":4,
+    "userid":"vbweby",
+    "username":"pranay",
     "name":"Anand",
-    "password":"Anand"
+    "password":"Anand",
+    "address":"house no somre road Utterpradesh",
+    "cart":[]
 }
     ],
     "data":[
