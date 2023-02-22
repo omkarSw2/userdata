@@ -1,0 +1,32 @@
+{
+    "users":[
+{
+            "id":1,
+            "name":"omkar walvalkar",
+            "address":"karnataka",
+            "mobile":"9988776654",
+            "password":"omkar"
+},
+{
+    "id":2,
+    "name":"Abhimanyu ",
+    "address":"Delhi",
+    "mobile":"9988776654",
+    "password":"Abhimanyu"
+},
+{
+    "id":3,
+    "name":"Pranay ",
+    "address":"Maharastra",
+    "mobile":"9988776654",
+    "password":"Pranay"
+},
+{
+    "id":4,
+    "name":"Anand",
+    "address":"Kerla",
+    "mobile":"9988776654",
+    "password":"Anand"
+}
+    ]
+}
