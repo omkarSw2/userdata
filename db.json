@@ -23,7 +23,33 @@
     "email":"Abhimanyu@gmail.com",
     "password":"Abhimanyu",
     "address":"123/4 3rd cross MG road new Delhi",
-    "cart":[]
+    "cart": [
+        {
+     
+      "price": 2000,
+      "size": "L",
+      "color": "Black",
+      "brand": "NIKE",
+      "name": "Nike Air Max",
+      "image": "https://media.finishline.com/s/finishline/924453_004?$Small$"
+    },
+           {
+     
+      "price": 5000,
+      "size": "L",
+      "color": "Black",
+      "brand": "NIKE",
+      "name": "Men's Nike Sportswear Air Max Futura Full-Zip Hoodie",
+      "image": "https://media.finishline.com/s/finishline/FB1435_010?$Main_onModel$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+    }, {
+      "price": 4000,
+      "size": "S",
+      "color": "Gry",
+      "brand": "NIKE",
+      "name": "Men's Nike Sportswear Air Max Graphic Half-Zip Hoodie",
+      "image": "https://media.finishline.com/s/finishline/DV2332_254?$Main_onModel$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+    }
+      ]
 },
 {
     "userid":"pujys0",
@@ -48,19 +74,21 @@
     "data":[
        {
         "id":1,
-        "price":2000,
+        "price":5000,
         "size":"L",
+        "gender":"men",
         "color":"Black",
         "brand":"NIKE",
-        "rating":4,
-        "name":"Nike Air Max",
-        "image":"https://media.finishline.com/s/finishline/924453_004?$Small$"
+        "rating":5,
+        "name":"Men's Nike Air Max 97 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/921826_015?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":2,
-        "price":5000,
+        "price":4000,
         "size":"M",
+        "gender":"men",
         "color":"white",
         "brand":"NIKE",
         "rating":4,
@@ -72,50 +100,55 @@
         "id":3,
         "price":7000,
         "size":"S",
-        "color":"Red",
+        "gender":"men",
+        "color":"Black",
         "brand":"NIKE",
         "rating":5,
-        "name":"Nike Air VaporMax Plus Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/CW6973_600?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's Nike Air Max 90 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/CN8490_003?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":4,
-        "price":3000,
-        "size":"S",
-        "color":"Pink",
+        "price":5000,
+        "size":"XL",
+        "gender":"men",
+        "color":"White",
         "brand":"NIKE",
-        "rating":3,
-        "name":"Women's Nike Air VaporMax Plus Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/FJ0720_639?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "rating":4,
+        "name":"Men's Nike Air Force 1 Low Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/CW2288_111?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":5,
-        "price":5000,
+        "price":8000,
         "size":"L",
+        "gender":"men",
         "color":"Black",
         "brand":"NIKE",
         "rating":4,
-        "name":"Men's Nike Sportswear Air Max Futura Full-Zip Hoodie",
-        "image":"https://media.finishline.com/s/finishline/FB1435_010?$Main_onModel$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Nike Air VaporMax Plus Running Shoes",
+        "image":"https://media.finishline.com/s/finishline/924453_004?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":6,
-        "price":4000,
-        "size":"S",
-        "color":"Gry",
+        "price":3999,
+        "size":"L",
+        "gender":"men",
+        "color":"Black",
         "brand":"NIKE",
         "rating":4,
-        "name":"Men's Nike Sportswear Air Max Graphic Half-Zip Hoodie",
-        "image":"https://media.finishline.com/s/finishline/DV2332_254?$Main_onModel$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's Nike Air Force 1 Low Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/DV0788_001?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":7,
         "price":10000,
         "size":"L",
+        "gender":"men",
         "color":"Red",
         "brand":"NIKE",
         "rating":5,
@@ -127,226 +160,247 @@
         "id":8,
         "price":9999,
         "size":"XL",
-        "color":"Cream",
-        "brand":"ADIDAS",
+        "gender":"men",
+        "color":"White",
+        "brand":"NIKE",
         "rating":5,
-        "name":" Women's adidas Originals 3-Stripes Primeblue Track Jacket",
-        "image":"https://media.finishline.com/s/finishline/HS6765_250?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's Nike Air Max LTD 3 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/687977_111?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":9,
         "price":4000,
         "size":"S",
+        "gender":"men",
         "color":"Black",
-        "brand":"ADIDAS",
+        "brand":"NIKE",
         "rating":5,
-        "name":" Men's adidas Originals Adicolor Classic Cutline Crewneck Sweatshirt",
-        "image":"https://media.finishline.com/s/finishline/HS2065_001?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Nike Air VaporMax Plus Running Shoes",
+        "image":"https://media.finishline.com/s/finishline/DQ7645_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":10,
         "price":6000,
-        "size":"S",
+        "size":"L",
+        "gender":"men",
         "color":"Orange",
-        "brand":"ADIDAS",
+        "brand":"NIKE",
         "rating":5,
-        "name":" adidas x IVY PARK Jersey",
-        "image":"https://media.finishline.com/s/finishline/HS0727_824?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Men's Nike Air Zoom Flight 95 Basketball Shoes",
+        "image":"https://media.finishline.com/s/finishline/DX1165_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":11,
         "price":3999,
-        "size":"L",
-        "color":"Black",
-        "brand":"ADIDAS",
+        "size":"S",
+        "gender":"women",
+        "color":"white",
+        "brand":"NIKE",
         "rating":5,
-        "name":" Men's adidas Originals Adicolor Classics Cut Line Pant",
-        "image":"https://media.finishline.com/s/finishline/HK7429_001?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Women's Nike Air Force 1 07 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/DQ7569_101?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":12,
         "price":4999,
         "size":"L",
-        "color":"Light Brown",
-        "brand":"ADIDAS",
+        "gender":"women",
+        "color":"White",
+        "brand":"NIKE",
         "rating":5,
-        "name":" Men's adidas Terrex MYSHELTER COLD.RDY Jacket",
-        "image":"https://media.finishline.com/s/finishline/HG3162_250?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Women's Nike Dunk High Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/FD9874_100?$Main$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":13,
         "price":6000,
         "size":"L",
-        "color":"white",
-        "brand":"BROOKS",
+        "gender":"women",
+        "color":"Pink",
+        "brand":"NIKE",
         "rating":3,
-        "name":" Women's Brooks Ghost 15 Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/1203801B_492?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Women's Nike Air VaporMax Plus Running Shoes",
+        "image":"https://media.finishline.com/s/finishline/FJ0720_639?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":14,
         "price":5000,
         "size":"XL",
-        "color":"white",
-        "brand":"BROOKS",
+        "gender":"women",
+        "color":"Pink",
+        "brand":"NIKE",
         "rating":3,
-        "name":" Men's Brooks Adrenaline GTS 22 Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/1103661D_020?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Women's Nike Air VaporMax 2021 Flyknit Running Shoes",
+        "image":"https://media.finishline.com/s/finishline/DZ5195_600?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":15,
         "price":7000,
         "size":"S",
-        "color":"Black",
-        "brand":"BROOKS",
+        "gender":"women",
+        "color":"White",
+        "brand":"NIKE",
         "rating":4,
         "name":" Women's Brooks Trace 2 Road Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/1203751B_579?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "image":"https://media.finishline.com/s/finishline/FD9873_100?$Main$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":16,
         "price":8000,
         "size":"L",
+        "gender":"women",
         "color":"White",
-        "brand":"BROOKS",
+        "brand":"NIKE",
         "rating":4,
-        "name":" Women's Brooks Launch 9 Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/1203731B_148?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Women's Nike Air Max 270 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/AH6789_100?$Main$&$transparent_badge$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":17,
         "price":4999,
         "size":"L",
+        "gender":"women",
         "color":"White",
-        "brand":"PUMA ",
+        "brand":"NIKE",
         "rating":4,
-        "name":" Men's Puma Future Rider Play On Fairgrounds Casual Shoes",
-        "image":"https://media.finishline.com/s/finishline/37114990_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Women's Nike Air VaporMax Plus Running Shoes",
+        "image":"https://media.finishline.com/s/finishline/DZ5204_500?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":18,
         "price":6000,
         "size":"L",
+        "gender":"women",
         "color":"White",
-        "brand":"PUMA ",
+        "brand":"NIKE",
         "rating":4,
-        "name":" Girls' Big Kids' Puma Karmen Rebelle Mid Casual Shoes",
-        "image":"https://media.finishline.com/s/finishline/39142001_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Women's Nike Air Max 90 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/DQ0374_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":19,
         "price":8000,
         "size":"L",
-        "color":"Black",
-        "brand":"PUMA ",
+        "gender":"women",
+        "color":"Pink",
+        "brand":"NIKE",
         "rating":4,
-        "name":"Men's Puma Logo Jogger Pants",
-        "image":"https://media.finishline.com/s/finishline/58676789_001?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Women's Nike Air Max 270 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/FD0293_600?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":20,
         "price":8000,
         "size":"L",
+        "gender":"women",
         "color":"White",
-        "brand":"PUMA ",
+        "brand":"NIKE",
         "rating":4,
-        "name":" Girls' Little Kids' Puma Carina Mid 2.0 High Top Casual Shoes",
-        "image":"https://media.finishline.com/s/finishline/39141801_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Nike Air VaporMax Plus Running Shoes",
+        "image":"https://media.finishline.com/s/finishline/924453_101?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":21,
         "price":2000,
         "size":"L",
+        "gender":"men",
         "color":"Black",
-        "brand":"NIKE",
+        "brand":"ADIDAS",
         "rating":4,
-        "name":"Nike Air Max",
-        "image":"https://media.finishline.com/s/finishline/924453_004?$Small$"
+        "name":"Men's adidas Originals NMD R1 V2 Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/GY4884_314?$Main$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":22,
         "price":5000,
         "size":"M",
+        "gender":"men",
         "color":"white",
-        "brand":"NIKE",
+        "brand":"ADIDAS",
         "rating":4,
-        "name":"Men's Nike Air Max 97 Casual Shoes",
-        "image":"https://media.finishline.com/s/finishline/921826_101?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's adidas Originals Ozelia Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/GV7685_262?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":23,
         "price":7000,
         "size":"S",
+        "gender":"men",
         "color":"Red",
-        "brand":"NIKE",
+        "brand":"ADIDAS",
         "rating":5,
-        "name":"Nike Air VaporMax Plus Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/CW6973_600?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's adidas Originals Ozelia Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/H04250_001?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":24,
         "price":3000,
         "size":"S",
-        "color":"Pink",
-        "brand":"NIKE",
+        "gender":"men",
+        "color":"White",
+        "brand":"ADIDAS",
         "rating":3,
-        "name":"Women's Nike Air VaporMax Plus Running Shoes",
-        "image":"https://media.finishline.com/s/finishline/FJ0720_639?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's adidas Originals adifom Q Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/GW2216_051?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":25,
         "price":5000,
         "size":"L",
+        "gender":"men",
         "color":"Black",
-        "brand":"NIKE",
+        "brand":"ADIDAS",
         "rating":4,
-        "name":"Men's Nike Sportswear Air Max Futura Full-Zip Hoodie",
-        "image":"https://media.finishline.com/s/finishline/FB1435_010?$Main_onModel$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's adidas Originals adifom Q Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/HP6586_001?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":26,
         "price":4000,
         "size":"S",
-        "color":"Gry",
-        "brand":"NIKE",
+        "gender":"men",
+        "color":"Black",
+        "brand":"ADIDAS",
         "rating":4,
-        "name":"Men's Nike Sportswear Air Max Graphic Half-Zip Hoodie",
-        "image":"https://media.finishline.com/s/finishline/DV2332_254?$Main_onModel$&$global_access_grid$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":"Men's adidas Originals Swift Run Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/F35206_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":27,
         "price":10000,
         "size":"L",
-        "color":"Red",
-        "brand":"NIKE",
+        "gender":"men",
+        "color":"Black",
+        "brand":"ADIDAS",
         "rating":5,
-        "name":" Air Jordan",
-        "image":"https://media.finishline.com/s/finishline/DQ8426_060?$Small$"
+        "name":" Men's adidas Terrex Free Hiker Cold.RDY Hiking Boots",
+        "image":"https://media.finishline.com/s/finishline/GY6757_314?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":28,
         "price":9999,
         "size":"XL",
+        "gender":"men",
         "color":"Cream",
         "brand":"ADIDAS",
         "rating":5,
@@ -358,22 +412,24 @@
         "id":29,
         "price":4000,
         "size":"S",
-        "color":"Black",
+        "gender":"men",
+        "color":"White",
         "brand":"ADIDAS",
         "rating":5,
-        "name":" Men's adidas Originals Adicolor Classic Cutline Crewneck Sweatshirt",
-        "image":"https://media.finishline.com/s/finishline/HS2065_001?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Men's adidas T-Mac 3.0 Restomod Basketball Shoes",
+        "image":"https://media.finishline.com/s/finishline/FZ6212_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
         "id":30,
         "price":6000,
         "size":"S",
-        "color":"Orange",
+        "gender":"men",
+        "color":"White",
         "brand":"ADIDAS",
         "rating":5,
-        "name":" adidas x IVY PARK Jersey",
-        "image":"https://media.finishline.com/s/finishline/HS0727_824?$Main_onModel$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
+        "name":" Men's adidas Originals Superstar Casual Shoes",
+        "image":"https://media.finishline.com/s/finishline/EG4960_100?$Main$&layer0=[h=245&w=245&bg=rgb(237,237,237)]&h=245&w=245&fmt=webp"
 
        },
        {
