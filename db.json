@@ -74,7 +74,44 @@
     "cart":[]
 }
     ],
-    "ordered":[],
+    "ordered": [
+      {
+        "id":1,
+        "name":"omkar",
+        "total":3000
+        
+      },
+        {
+          "id":2,
+        "name":"sanjay",
+        "total":1000
+        
+      },
+        {
+          "id":3,
+        "name":"shivatej",
+        "total":3000
+        
+      },
+        {
+          "id":4,
+        "name":"anand",
+        "total":5000
+        
+      },
+        {
+          "id":5,
+        "name":"pranay",
+        "total":3000
+        
+      },
+        {
+          "id":6,
+        "name":"abimanyu",
+        "total":4000
+        
+      }
+    ],
     "data":[
        {
         "id":1,
